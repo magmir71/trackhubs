@@ -1,0 +1,5 @@
+hub TASShub
+shortLabel TASS catalogue
+longLabel An extended catalogue of tandem alternative splice sites
+genomesFile https://raw.githubusercontent.com/magmir71/trackhubs/master/genomes.txt
+email aleksei.mironov@skoltech.ru
