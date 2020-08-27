@@ -1,0 +1,19 @@
+hub UCSCHub
+shortLabel TASS catalogue
+longLabel catalogue of TASS
+useOneFile on
+email aleksei.mironov@skoltech.ru
+
+genome hg19
+
+track TASS
+bigDataUrl https://raw.githubusercontent.com/magmir71/trackhubs/master/UCSChub/hg19/TASS_sites_expressed_37_coords.bb
+shortLabel TASS indels
+longLabel indels induced by tandem alternative splice sites
+type bigBed 9
+itemRgb on
+exonNumbers Off
+scoreLabel phi value * 100
+visibility pack
+defaultPos chr1:31,422,965-31,422,986
+priority 1
