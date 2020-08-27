@@ -1,2 +1,2 @@
 genome hg19
-trackDb hg19/trackDb.txt
+trackDb https://github.com/magmir71/trackhubs/blob/master/hg19/trackDb.txt
