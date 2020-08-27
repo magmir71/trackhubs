@@ -1,0 +1,15 @@
+hub UCSCHub
+shortLabel uORF regulation
+longLabel Genome Hub for human uORF and NMD data
+useOneFile on
+email leo.mazaev@gmail.com
+
+genome hg19
+
+track uORF_UPF1_KD
+bigDataUrl https://raw.githubusercontent.com/Leoberium/uORF/master/UCSCHub/hg19/uORF_deltaUPF1.bb
+shortLabel uORF_UPF1_KD
+longLabel 5'UTR transcript fragments with uORFs, UPF1 knockdown
+visibility 3
+color 255,0,0
+type bigBed 12
