@@ -1,5 +1,5 @@
 track TASS
-bigDataUrl TASS_sites_expressed_37_coords.bb
+bigDataUrl https://raw.githubusercontent.com/magmir71/trackhubs/master/hg19/TASS_sites_expressed_37_coords.bb
 shortLabel TASS indels
 longLabel indels induced by tandem alternative splice sites
 type bigBed
