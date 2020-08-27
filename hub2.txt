@@ -1,0 +1,32 @@
+hub UCSCHub
+shortLabel TASS catalogue
+longLabel catalogue of TASS
+useOneFile on
+email aleksei.mironov@skoltech.ru
+
+genome hg19
+
+track TASS
+bigDataUrl https://raw.githubusercontent.com/magmir71/trackhubs/master/UCSChub/hg19/TASS_sites_expressed_37_coords.bb
+shortLabel TASS indels
+longLabel indels induced by tandem alternative splice sites
+type bigBed 9
+itemRgb on
+exonNumbers Off
+scoreLabel phi value * 100
+visibility pack
+defaultPos chr1:31,422,965-31,422,986
+priority 1
+
+track tissue_specific_TASS
+bigDataUrl https://raw.githubusercontent.com/magmir71/trackhubs/master/UCSChub/hg19/TS_sites_37_coords.bb
+shortLabel tissue-specific TASS
+longLabel expression of tissue-specific TASS in tissues
+type bigBarChart
+barChartLabel Tissues
+barChartMetric mean
+barChartBars Adipose-Subcutaneous Adipose-Visceral(Omentum) AdrenalGland Artery-Aorta Artery-Coronary Artery-Tibial Bladder Brain-Amygdala Brain-Anteriorcingulatecortex(BA24) Brain-Caudate(basalganglia) Brain-CerebellarHemisphere Brain-Cerebellum Brain-Cortex Brain-FrontalCortex(BA9) Brain-Hippocampus Brain-Hypothalamus Brain-Nucleusaccumbens(basalganglia) Brain-Putamen(basalganglia) Brain-Spinalcord(cervicalc-1) Brain-Substantianigra Breast-MammaryTissue Cervix-Ectocervix Cervix-Endocervix Colon-Sigmoid Colon-Transverse Esophagus-GastroesophagealJunction Esophagus-Mucosa Esophagus-Muscularis FallopianTube Heart-AtrialAppendage Heart-LeftVentricle Kidney-Cortex Liver Lung MinorSalivaryGland Muscle-Skeletal Nerve-Tibial Ovary Pancreas Pituitary Prostate Skin-NotSunExposed(Suprapubic) Skin-SunExposed(Lowerleg) SmallIntestine-TerminalIleum Spleen Stomach Testis Thyroid Uterus Vagina WholeBlood 
+barChartColors #FFA54F #EE9A00 #8FBC8F #8B1C62 #EE6A50 #FF0000 #CDB79E #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #EEEE00 #00CDCD #EED5D2 #EED5D2 #CDB79E #EEC591 #8B7355 #8B7355 #CDAA7D #EED5D2 #B452CD #7A378B #CDB79E #CDB79E #9ACD32 #CDB79E #7A67EE #FFD700 #FFB6C1 #CD9B1D #B4EEB4 #D9D9D9 #3A5FCD #1E90FF #CDB79E #CDB79E #FFD39B #A6A6A6 #008B45 #EED5D2 #EED5D2 #FF00FF
+visibility pack 
+autoScale on
+defaultPos chr1:31,422,965-31,422,986
