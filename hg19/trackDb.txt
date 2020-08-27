@@ -1,0 +1,14 @@
+track TASS
+bigDataUrl TASS_sites_expressed_37_coords.bb
+shortLabel TASS indels
+longLabel indels induced by tandem alternative splice sites
+type bigBed
+itemRgb On
+exonNumbers Off
+useScore 1
+spectrum On
+scoreMin 0
+scoreMax 100
+scoreLabel phi value * 100
+visibility pack
+browser position chr1:31,422,965-31,422,986
