@@ -1,0 +1,2 @@
+genome hg19
+trackDb https://raw.githubusercontent.com/magmir71/trackhubs/master/hg19/trackDb.txt
