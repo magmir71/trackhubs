@@ -1,0 +1,5 @@
+hub TASShub
+shortLabel TASS catalogue
+longLabel catalogue of tandem alternative splice sites
+genomesFile genomes.txt
+email aleksei.mironov@skoltech.ru
