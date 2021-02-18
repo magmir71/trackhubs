@@ -1,0 +1,6 @@
+hub UCSCHub
+shortLabel TASS catalogue
+longLabel catalogue of TASS
+genomesFile http://arkuda.skoltech.ru/~dp/shared/Extended_catalogue_of_TASS/TrackHub/genomes.txt
+email aleksei.mironov@skoltech.ru
+descriptionUrl http://arkuda.skoltech.ru/~dp/shared/Extended_catalogue_of_TASS/TrackHub/TASShub_README.html
