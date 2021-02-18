@@ -3,7 +3,7 @@ shortLabel TASS catalogue
 longLabel catalogue of TASS
 useOneFile on
 email aleksei.mironov@skoltech.ru
-descriptionUrl https://raw.githubusercontent.com/magmir71/trackhubs/master/TASShub_README.html
+descriptionUrl http://arkuda.skoltech.ru/~dp/shared/Extended_catalogue_of_TASS/TrackHub/TASShub_README.html
 
 genome hg19
 defaultPos chr1:31,422,965-31,422,986
